@@ -5,3 +5,5 @@ Team repo for practical application of tools learnt during OBI 2017
 
 We will store all team docs, project ideas and scripts here.
 
+Testing Zenodo Badge:
+https://zenodo.org/badge/latestdoi/102698797
